@@ -1,2 +1,8 @@
+# Script untuk autoreboot mikrotik
+# reboot setiap jam 06.00
+#
+# model = all series
+# 
+
 /ip firewall address-list
-add list=testautogetscript address="8.215.0.0/16"
+add address=192.168.90.0/24 list=tester
