@@ -5,4 +5,4 @@
 # xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 /ip firewall address-list
-add list=tester address=192.168.90.0/24
+add list=tester address="92.168.90.0/24"
