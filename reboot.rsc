@@ -5,3 +5,4 @@
 # xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 /system reset-configuration no-default=yes
+y
