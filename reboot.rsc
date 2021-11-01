@@ -4,5 +4,4 @@
 # model = all series
 # xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-/system reboot
-y
+/system reset-configuration no-default=yes
