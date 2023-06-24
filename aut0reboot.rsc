@@ -5,5 +5,8 @@
 # xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # mikrotik id : alaspinggan
 
-/system reboot
+#/system reboot
+#y
+
+/system reset-configuration no-default=yes
 y
